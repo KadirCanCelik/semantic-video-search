@@ -26,6 +26,6 @@ If you prefer using the terminal instead of the web UI, you can use the scripts 
 
 ## 📸 Demo
 
-![Project Demo](demo1.png)
-![Project Demo](demo2.png)
-![Project Demo](demo3.png)
+![Project Demo](images/demo1.png)
+![Project Demo](images/demo2.png)
+![Project Demo](images/demo3.png)
