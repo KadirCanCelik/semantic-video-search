@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+env/
+video_ai/
+clip_model/
+*.mp4
+*.json
+*.safetensors
+*.bin
+.vscode/
